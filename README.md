@@ -8,7 +8,7 @@ GTA 3 decompilation ported to the Nintendo Switch
 - Build the [librw switch port](https://github.com/AGraber/librw) and place static libraries in devkitPro/portlibs/switch/lib
 
 ## Downloads:
-Check [releases](https://github.com/AGraber/re3nx/releases)
+Check [releases](https://github.com/AGraber/re3-nx/releases)
 
 ## Original README:
 
