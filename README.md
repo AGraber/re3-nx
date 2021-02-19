@@ -5,10 +5,10 @@ GTA 3 decompilation ported to the Nintendo Switch
 ## Build instructions
 - Install dependencies: `pacman -S switch-mpg123 switch-sdl2 switch-glfw switch-libdrm_nouveau`
 - Install switch port of [OpenAL-Soft](https://github.com/fgsfdsfgs/openal-soft)
-- Build the [librw switch port](https://github.com/AGraber/librw) and place static libraries in devkitPro/portlibs/switch/lib
+- Build the [librw switch port](https://github.com/AGraber/librw) and place static libraries in `devkitPro/portlibs/switch/lib/`
 
 ## Downloads:
-Check [releases](https://github.com/AGraber/re3nx/releases)
+Check [releases](../releases)
 
 ## Original README:
 
